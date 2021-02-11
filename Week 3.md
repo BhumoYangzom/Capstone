@@ -5,4 +5,5 @@
 * Talk to the Phillips rep.
 
 ### Step 2
+* Call Phillip rep, ask for his email and write to him. 
 ### Step 3
