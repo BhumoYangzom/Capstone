@@ -18,4 +18,21 @@
 * How other companies deal with the same issue. 
 
 
+TODO: 
+- Contact Jon McAlester. (Yangzom)
+	- Ask for his email
+	- Say we're working Brandon Kuehne from the Children's Hospital (Director of Respiratory Therapy.
+	- Email to him about connectors (NeuroCapsules)
+		- How they work
+		- Their cost
+		- Where to get them
+		- What kind of deals can we get
+		- Ask him about
+			- Setting up the server that connects to the Philips Monitor
+			- Costs 
+- Create an outline for our investigative research paper (Biruk and Mahmoud)
+- Figure out how to incorporate AirTable into our project. (Rithsek)
+	- Ask Rafal for more details on this.
+
+
 
