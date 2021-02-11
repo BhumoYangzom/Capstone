@@ -13,9 +13,9 @@
 * HL7 Data
 * Neuron Capsule
 * Bernouli
-* Epic and Apollo
+* Epic and Apollo (Yangzom)
 * How to cooperate Airtable in this project. 
-* How other companies deal with the same issue. 
+* How other companies deal with the same issue. (Yangzom)
 
 
 TODO: 
