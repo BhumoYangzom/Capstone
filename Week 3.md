@@ -15,6 +15,7 @@
 * Bernouli
 * Epic and Apollo
 * How to cooperate Airtable in this project. 
+* How other companies deal with the same issue. 
 
 
 
