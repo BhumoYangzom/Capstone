@@ -10,6 +10,8 @@
 
 ### Factors to consider
 
+* TODO: Choose a factor to research on, write your name next to it and come prepared for next meeting
+
 * HL7 Data
 * Neuron Capsule
 * Bernouli
