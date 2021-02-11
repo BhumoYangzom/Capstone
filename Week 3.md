@@ -7,3 +7,14 @@
 ### Step 2
 * Call Phillip rep, ask for his email and write to him. 
 ### Step 3
+
+### Factors to consider
+
+* HL7 Data
+* Neuron Capsule
+* Bernouli
+* Epic and Apollo
+* How to cooperate Airtable in this project. 
+
+
+
