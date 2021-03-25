@@ -1,33 +1,14 @@
-# Capstone
+# Current Status of the Project
 
-02/04/2021
+## What we have done
 
-Notes from meeting with Brandon
+### Capstone Project Outline
 
-## Ventilator Data Migration
+We have been collaborating on writing our project outline on Google Docs. Here is the link to our document[https://docs.google.com/document/d/140ILIotX8S67hzCRSYFNFmz0-ZEvsnk0SVgTEzHT0Y0/edit?usp=sharing]
 
-## Problem statement: 
-Current work flow is inefficient: hand input large amounts of data. Huge data gaps. Needs to reduce errors and perform automatic data collection. To aim for Growth and expansion. 
-
-## Solution Options: 
-* Bernouli Platform
-* Talis Hub
-
-## Possible Tasks 
-
-* Feasibility of bringing this on and cost?
-* How do add this to the children's hospital, 40-50 devices. 
-* An investigation how to implement current existing systems.
-* Research what the current platforms (Epic, appolo)
-* Contact phillips rep
-* Research viable solutions
-* Give a proposal, timeline to implement and cost. 
-
-## Desired output situaion
-A handheld device, walk up to the ventilator device and sync the data flow. 
-
-## Summary
-Project management skills 
-
-## Dr. J's advice
-* Use image recognition, and air table. 
+## What we still need to do
+* Ask the questions discussed during today's group meeting to Jon McAlistair from Philips and Brandon from Oklahoma Children's Hospital.
+* Understand how IntelliBridge System works
+* Complete the project outline after getting back from Jon and Brandon with complete information
+* Prepare 5-minute capstone presentation (to be presented at the end of the semester)
+* Use AirTable for Data Migration
