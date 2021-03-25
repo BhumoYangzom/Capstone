@@ -4,7 +4,7 @@
 
 ### Capstone Project Outline
 
-We have been collaborating on writing our project outline on Google Docs. Here is the [link to our document] (https://docs.google.com/document/d/140ILIotX8S67hzCRSYFNFmz0-ZEvsnk0SVgTEzHT0Y0/edit?usp=sharing)
+We have been collaborating on writing our project outline on Google Docs. Here is the [link to our document](https://docs.google.com/document/d/140ILIotX8S67hzCRSYFNFmz0-ZEvsnk0SVgTEzHT0Y0/edit?usp=sharing)
 
 ## What we still need to do
 * Ask the questions discussed during today's group meeting to Jon McAlistair from Philips and Brandon from Oklahoma Children's Hospital.
